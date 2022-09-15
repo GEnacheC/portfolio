@@ -2,7 +2,7 @@
 
 :root{
     --bgColor: #010101;
-    --bgColorInfo: #c499a1;
+    --bgColorInfo: transparent;
     --txtColor: #f1f1f1;
     --txtFont: 'Open Sans', sans-serif;
 }
